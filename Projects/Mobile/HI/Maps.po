@@ -1,0 +1,20 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "Satalite"
+msgstr "ककततकhj"
+
+msgid "Google Maps"
+msgstr ""
+
+msgid "Distance"
+msgstr "ककतhkbतक"
+
+msgid "Location"
+msgstr "ककkbततक"
+
+

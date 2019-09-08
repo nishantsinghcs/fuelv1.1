@@ -1,0 +1,38 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "Menu"
+msgstr "ककततकhj"
+
+msgid "FIle"
+msgstr ""
+
+msgid "Go"
+msgstr "ककतhkbतक"
+
+msgid "Forward"
+msgstr "ककkbततक"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Paste"
+msgstr "jhककततक"
+
+msgid "Delete"
+msgstr ""
+msgid "Arrange"
+
+msgstr ""
+msgid "Print"
+
+msgstr ""
+msgid "Go To"
+
+msgstr ""
+msgid "Help"
+

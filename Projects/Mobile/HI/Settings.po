@@ -1,0 +1,23 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "Upload"
+msgstr "ककततकhj"
+
+msgid "Download"
+msgstr ""
+
+msgid "Edit"
+msgstr "ककतhkbतक"
+
+msgid "Change"
+msgstr "ककkbततक"
+
+msgid "Battery Life"
+msgstr ""
+
+

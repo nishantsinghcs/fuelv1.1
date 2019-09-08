@@ -1,0 +1,26 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "Load"
+msgstr "ककततकhj"
+
+msgid "Bookmark"
+msgstr "pustakchinh"
+
+msgid "History"
+msgstr "ककतhkbतक"
+
+msgid "Reload"
+msgstr "ककkbततक"
+
+msgid "Not Found"
+msgstr "nahi mila"
+
+msgid "Loading"
+msgstr "jhककततक"
+
+

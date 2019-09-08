@@ -1,0 +1,27 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "File"
+msgstr "ककततकhj"
+
+msgid "Filea"
+msgstr ""
+
+msgid "Fileb"
+msgstr "ककतhkbतक"
+
+msgid "Filec"
+msgstr "ककkbततक"
+
+msgid "Filed"
+msgstr ""
+
+msgid "FileE"
+msgstr "jhककततक"
+
+msgid "FileF"
+msgstr ""

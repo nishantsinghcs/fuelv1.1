@@ -1,0 +1,19 @@
+white-space
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+
+msgid "AM"
+msgstr "ककततकhj"
+
+msgid "PM"
+msgstr ""
+
+msgid "Timezone"
+msgstr "ककतhkbतक"
+
+msgid "Clock"
+msgstr "ककkbततक"
+
